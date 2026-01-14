@@ -38,5 +38,3 @@ De applicatie richt zich op het eenvoudig beheren van treinen, reizen en passagi
 ## Auteur
 - **Walid Oumass**: Alle code is door mijzelf geschreven en ik werk alleen aan dit project.
 
-## License
-Dit project is gelicenseerd onder de MIT License - zie de [LICENSE](LICENSE) file voor details.
