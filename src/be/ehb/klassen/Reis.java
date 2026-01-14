@@ -204,7 +204,7 @@ public class Reis {
 
 
 
-        String fileName = vertrekpunt.name().charAt(0) + vertrekpunt.name().substring(1).toLowerCase() +  "_" + eindpunt.name().charAt(0) + eindpunt.name().substring(1).toLowerCase()+ "_" + vertrek;
+        String fileName = "boardinglijst/"+vertrekpunt.name().charAt(0) + vertrekpunt.name().substring(1).toLowerCase() +  "_" + eindpunt.name().charAt(0) + eindpunt.name().substring(1).toLowerCase()+ "_" + vertrek;
         try(FileWriter output = new FileWriter(fileName+".txt")){
             //beschrijving van reis
             output.write("Boarding lijst\n");
