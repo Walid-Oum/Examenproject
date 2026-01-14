@@ -1,6 +1,7 @@
 package be.ehb.enums;
 
 /**
+ * @author Walid Oumass
  * Alle mogelijke stations voor een reis
  */
 

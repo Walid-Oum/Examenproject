@@ -2,6 +2,7 @@ package be.ehb.enums;
 
 
 /**
+ * @author Walid Oumass
  * Type locomotief dat bepaalt hoeveel wagons een trein maximaal kan hebben
  */
 

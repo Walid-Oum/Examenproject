@@ -3,6 +3,7 @@ package be.ehb.klassen;
 import be.ehb.enums.Klasse;
 
 /**
+ * @author Walid Oumass
  * Deze klasse vertegenwoordigt een wagon in een trein
  * Elke wagon heeft een klasse die bepaalt welke klasse ticket je nodig hebt om erin te kunnen boarden
  */

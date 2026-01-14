@@ -3,6 +3,7 @@ package be.ehb.klassen;
 import java.time.LocalDate;
 
 /**
+ * @author Walid Oumass
  * Klasse die een passagier vertegenwoordigt in het systeem
  */
 

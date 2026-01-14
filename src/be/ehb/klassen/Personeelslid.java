@@ -8,6 +8,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * @author Walid Oumass
  * Klasse die een personeelslid vertegenwoordigt
  * Kunnen verschillende rollen hebben, zoals bestuurder, steward, etc.
  */

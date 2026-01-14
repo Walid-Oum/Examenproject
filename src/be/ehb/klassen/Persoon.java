@@ -3,6 +3,7 @@ package be.ehb.klassen;
 import java.time.LocalDate;
 
 /**
+ * @author Walid Oumass
  * Abstracte klasse voor een persoon
  * Wordt gebruikt als basis voor passagiers en personeelsleden
  */

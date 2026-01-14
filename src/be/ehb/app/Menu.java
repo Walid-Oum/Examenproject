@@ -13,6 +13,11 @@ import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * @author Walid Oumass
+ * Klasse die het hele menu logica bevat
+ */
+
 public class Menu {
 
 

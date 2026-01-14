@@ -3,6 +3,7 @@ package be.ehb.klassen;
 import be.ehb.enums.Klasse;
 
 /**
+ * @author Walid Oumass
  * Klasse die een ticket vertegenwoordigt
  */
 

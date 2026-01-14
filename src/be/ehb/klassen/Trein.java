@@ -7,6 +7,7 @@ import java.util.ArrayList;
 
 
 /**
+ * @author Walid Oumass
  * Deze klasse vertegenwoordigt een trein. Een trein bestaat uit een locomotief en een aantal wagons
  */
 

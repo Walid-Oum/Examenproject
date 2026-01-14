@@ -1,6 +1,7 @@
 package be.ehb.enums;
 
 /**
+ * @author Walid Oumass
  * Certificaties die een personeelslid kan hebben
  * Wordt gebruikt om de vaardigheden/certificaten bij te houden
  */

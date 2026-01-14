@@ -13,6 +13,7 @@ import java.util.List;
 
 
 /**
+ * @author Walid Oumass
  * Klasse die een reis vertegenwoordigt
  */
 
